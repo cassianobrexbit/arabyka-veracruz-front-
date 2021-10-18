@@ -618,6 +618,10 @@ function App() {
 
   return (
     <div className="App">
+      <div>Batch n°: </div>
+      <br></br>
+      <div>Link to blockchain transaction: 0xabc</div>
+      <br></br>
       {/* <Table columns={columns} data={data} />
       <br></br> */}
       <ObsTable columns={obsColumns} data={obsData} />
