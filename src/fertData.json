@@ -1,0 +1,24 @@
+[
+	{
+		"fertilization":
+		{
+			"id": "",
+			"exportable": "",
+			"recommendation": "",
+			"initDate": "",
+			"endDate": "",
+			"type":"",
+			"subplots": "",
+			"area": "",
+			"product": "",
+			"quantity": "",
+			"dosage": "",
+			"concentration": "",
+			"ground": "",
+			"activeSubs": "",
+			"notes":"",
+			"updatedAt": "",
+			"updatedBy": ""
+		}
+	}
+]

@@ -1,0 +1,164 @@
+[
+	{
+		"rega":
+		{
+			"id": "313494",
+			"exportable": "Sim",
+			"recommendation": "Não",
+			"initDate": "2021-07-02 00:00",
+			"endDate": "2021-07-19 23:59",
+			"type": "Rega/Fertirrega",
+			"subplots": "Armazém",
+			"product": "",
+			"quantity": "",
+			"dosage": "",
+			"concentration": "",
+			"ground": "",
+			"activeSubs": "",
+			"notes":"",
+			"updatedAt": "2021-07-20 05:56",
+			"updatedBy": ""
+		}
+	},
+	{
+		"rega":
+		{
+			"id": "313495",
+			"exportable": "Sim",
+			"recommendation": "Não",
+			"initDate": "2021-07-01 00:00",
+			"endDate": "2021-07-19 23:59",
+			"type": "Rega/Fertirrega",
+			"subplots": "Armazém",
+			"product": "",
+			"quantity": "",
+			"dosage": "",
+			"concentration": "",
+			"ground": "",
+			"activeSubs": "",
+			"notes":"",
+			"updatedAt": "2021-07-20 05:56",
+			"updatedBy": ""
+		}
+	},
+	{"rega":
+		{
+			"id": "318938",
+			"exportable": "Sim",
+			"recommendation": "Não",
+			"initDate": "2021-07-01 00:00",
+			"endDate": "2021-07-15 23:59",
+			"type": "Rega/Fertirrega",
+			"subplots": "Armazém",
+			"product": "",
+			"quantity": "",
+			"dosage": "",
+			"concentration": "",
+			"ground": "",
+			"activeSubs": "",
+			"notes":"",
+			"updatedAt": "2021-07-15 05:26",
+			"updatedBy": ""
+		}
+	},
+	{"rega":
+		{
+			"id": "319320",
+			"exportable": "Sim",
+			"recommendation": "Não",
+			"initDate": "2021-07-08 00:00",
+			"endDate": "2021-07-15 23:59",
+			"type": "Rega/Fertirrega",
+			"subplots": "Armazém",
+			"product": "",
+			"quantity": "",
+			"dosage": "",
+			"concentration": "",
+			"ground": "",
+			"activeSubs": "",
+			"notes":"",
+			"updatedAt": "2021-07-15 05:26",
+			"updatedBy": ""
+		}
+	},
+	{"rega":
+		{
+			"id": "323556",
+			"exportable": "Sim",
+			"recommendation": "Não",
+			"initDate": "2021-07-12 00:00",
+			"endDate": "2021-07-15 23:59",
+			"type": "Rega/Fertirrega",
+			"subplots": "Armazém",
+			"product": "",
+			"quantity": "",
+			"dosage": "",
+			"concentration": "",
+			"ground": "",
+			"activeSubs": "",
+			"notes":"",
+			"updatedAt": "2021-07-16 16:54",
+			"updatedBy": ""
+		}
+	},
+	{"rega":
+		{
+			"id": "326651",
+			"exportable": "Sim",
+			"recommendation": "Não",
+			"initDate": "2021-07-14 00:00",
+			"endDate": "2021-07-19 23:59",
+			"type": "Rega/Fertirrega",
+			"subplots": "Armazém",
+			"product": "",
+			"quantity": "",
+			"dosage": "",
+			"concentration": "",
+			"ground": "",
+			"activeSubs": "",
+			"notes":"",
+			"updatedAt": "2021-07-20 05:56",
+			"updatedBy": ""
+		}
+	},
+	{"rega":
+		{
+			"id": "326652",
+			"exportable": "Sim",
+			"recommendation": "Não",
+			"initDate": "2021-07-13 00:00",
+			"endDate": "2021-07-02 23:59",
+			"type": "Rega/Fertirrega",
+			"subplots": "Armazém",
+			"product": "",
+			"quantity": "",
+			"dosage": "",
+			"concentration": "",
+			"ground": "",
+			"activeSubs": "",
+			"notes":"",
+			"updatedAt": "2021-07-13 19:54",
+			"updatedBy": ""
+		}
+	},
+	{"rega":
+		{
+			"id": "328546",
+			"exportable": "Sim",
+			"recommendation": "Não",
+			"initDate": "2021-07-15 00:00",
+			"endDate": "2021-07-15 23:59",
+			"type": "Rega/Fertirrega",
+			"subplots": "Armazém",
+			"product": "",
+			"quantity": "",
+			"dosage": "",
+			"concentration": "",
+			"ground": "",
+			"activeSubs": "",
+			"notes":"",
+			"updatedAt": "2021-07-16 05:56",
+			"updatedBy": ""
+		}
+	}
+]

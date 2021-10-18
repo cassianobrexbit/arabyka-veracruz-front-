@@ -1,0 +1,21 @@
+[
+	{
+		"fertilization":
+		{
+			"id": "",
+			"exportable": "",
+			"recommendation": "",
+			"initDate": "",
+			"endDate": "",
+			"type":"",
+			"subplots": "",
+			"area": "",
+			"weight": "",
+			"packageQuantity": "",
+			"packageType": "",
+			"notes":"",
+			"updatedAt": "",
+			"updatedBy": ""
+		}
+	}
+]
