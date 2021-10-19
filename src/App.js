@@ -1,6 +1,8 @@
 import React, { useMemo, useState, useEffect } from "react";
 // import axios from "axios";
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 // import Table from "./Table";
 import ObsTable from "./ObsTable";
 import RegaTable from "./RegaTable";
@@ -10,6 +12,9 @@ import FertTable from "./FertTable";
 import PulvTable from "./PulvTable";
 import CropTable from "./CropTable";
 import "./App.css";
+import Header from './Header';
+import Footer from './Footer';
+
 
 import opsCultDataFile from './opsCultData.json'
 import obsDataFile from './obsData.json'
@@ -617,9 +622,9 @@ function App() {
   }, []);
 
   return (
+    <>
+    <Header batch={"12345"}/>
     <div className="App">
-      <div>Batch n°: </div>
-      <br></br>
       <div>Link to blockchain transaction: 0xabc</div>
       <br></br>
       {/* <Table columns={columns} data={data} />
@@ -638,6 +643,8 @@ function App() {
       <br></br>
       <CropTable columns={cropColumns} data={cropData} />
     </div>
+    <Footer/>
+    </>
   );
 }
 

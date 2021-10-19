@@ -34,6 +34,7 @@ export default function Table({ columns, data }) {
         onChange={handleFilterChange}
         placeholder={"Search by Start Date"}
       />
+      <div className="table-container">
       <table {...getTableProps()}>
         <thead>
           {headerGroups.map(headerGroup => (
@@ -70,6 +71,7 @@ export default function Table({ columns, data }) {
           })}
         </tbody>
       </table>
+      </div>
     </>
   );
 }
