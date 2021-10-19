@@ -32,7 +32,7 @@ export default function Table({ columns, data }) {
       <input
         value={filterInput}
         onChange={handleFilterChange}
-        placeholder={"Search date"}
+        placeholder={"Search by Date"}
       />
       <table {...getTableProps()}>
         <thead>

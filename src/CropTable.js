@@ -22,7 +22,7 @@ export default function Table({ columns, data }) {
 
   const handleFilterChange = e => {
     const value = e.target.value || undefined;
-    setFilter("show.name", value);
+    setFilter("crop.initDate", value);
     setFilterInput(value);
   };
 
@@ -32,7 +32,7 @@ export default function Table({ columns, data }) {
       <input
         value={filterInput}
         onChange={handleFilterChange}
-        placeholder={"Search date"}
+        placeholder={"Search by Init Date"}
       />
       <table {...getTableProps()}>
         <thead>
