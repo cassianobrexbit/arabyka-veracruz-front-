@@ -2,20 +2,73 @@
 	{
 		"crop":
 		{
-			"id": "",
-			"exportable": "",
-			"recommendation": "",
-			"initDate": "",
-			"endDate": "",
-			"type":"",
-			"subplots": "",
-			"area": "",
-			"weight": "",
+			"id": "402492",
+			"exportable": "Sim",
+			"recommendation": "Sim",
+			"initDate": "2021-10-01 07:00",
+			"endDate": "2021-10-01 19:00",
+			"subplots": "Setor 01; Setor 02; Setor 03; Setor 04; Setor 05; Setor 06; Setor 07; Setor 08; Setor 23; Setor 24; Setor 25; Setor 26; Setor 27; Setor 28; Setor 29; Setor 30",
+			"area": "92.444",
+			"weight": "0.0 kg",
 			"packageQuantity": "",
 			"packageType": "",
 			"notes":"",
-			"updatedAt": "",
-			"updatedBy": ""
+			"updatedAt": "2021-10-01 10:49",
+			"updatedBy": "Pedro Lourenço"
+		}
+	},
+	{
+		"crop":
+		{
+			"id": "404145",
+			"exportable": "Sim",
+			"recommendation": "Sim",
+			"initDate": "2021-10-05 07:00",
+			"endDate": "2021-10-05 19:00",
+			"subplots": "Setor 01; Setor 02; Setor 03; Setor 04; Setor 05; Setor 06; Setor 07; Setor 08; Setor 23; Setor 24; Setor 25; Setor 26; Setor 27; Setor 28; Setor 29; Setor 30",
+			"area": "92.444",
+			"weight": "0.0 kg",
+			"packageQuantity": "",
+			"packageType": "",
+			"notes":"",
+			"updatedAt": "2021-10-05 09:35",
+			"updatedBy": "Pedro Lourenço"
+		}
+	},
+	{
+		"crop":
+		{
+			"id": "408576",
+			"exportable": "Sim",
+			"recommendation": "Não",
+			"initDate": "2021-10-11 08:00",
+			"endDate": "2021-10-11 17:00",
+			"subplots": "Setor 28",
+			"area": "8.308",
+			"weight": "0.0 kg",
+			"packageQuantity": "",
+			"packageType": "",
+			"notes":"",
+			"updatedAt": "2021-10-13 09:08",
+			"updatedBy": "Pedro Lourenço"
+		}
+	},
+	{
+		"crop":
+		{
+			"id": "409403",
+			"exportable": "Sim",
+			"recommendation": "Sim",
+			"initDate": "2021-10-11 08:00",
+			"endDate": "2021-10-11 17:00",
+			"subplots": "Setor 28",
+			"area": "8.308",
+			"weight": "0.0 kg",
+			"packageQuantity": "",
+			"packageType": "",
+			"notes":"",
+			"updatedAt": "2021-10-13 09:08",
+			"updatedBy": "Pedro Lourenço"
 		}
 	}
 ]
