@@ -32,7 +32,7 @@ export default function Table({ columns, data }) {
       <input
         value={filterInput}
         onChange={handleFilterChange}
-        placeholder={"Search by Init Date"}
+        placeholder={"Search Cultural Operation by Init Date"}
       />
       <div className="table-container">
         <table {...getTableProps()}>

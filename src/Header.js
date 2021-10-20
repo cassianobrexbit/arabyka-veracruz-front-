@@ -14,7 +14,7 @@ export default function Header({ batch }) {
         <img  src="/logo_veratech.png"  alt="fireSpot" className="img-fluid col-4 col-sm-4 col-md-3 col-lg-3" />
         </div>
         <div className="batch">
-          <span>Batch n°: </span>
+          <span>Herdade: </span>
           <span>{batch}</span>
         </div>
       </div>

@@ -32,7 +32,7 @@ export default function Table({ columns, data }) {
       <input
         value={filterInput}
         onChange={handleFilterChange}
-        placeholder={"Search by Date"}
+        placeholder={"Search Observation by Date"}
       />
       <div className="table-container">
       <table {...getTableProps()}>

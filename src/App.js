@@ -440,7 +440,7 @@ function App() {
   const pulvColumns = useMemo(
     () => [
       {
-        Header: "Sprays",
+        Header: "Pulverizations",
         columns: [
           {
             Header: "ID",
@@ -527,43 +527,55 @@ function App() {
         columns: [
           {
             Header: "ID",
-            accessor: "show.name"
+            accessor: "crop.id"
           },
           {
             Header: "Exportable",
-            accessor: "show.type"
+            accessor: "crop.exportable"
           },
           {
             Header: "Recomendations",
-            accessor: "show.language"
+            accessor: "crop.recommendation"
           },
           {
-            Header: "Date",
-            accessor: "show.status"
+            Header: "Init Date",
+            accessor: "crop.initDate"
+          },
+          {
+            Header: "End Date",
+            accessor: "crop.endDate"
           },
           {
             Header: "Subplots",
-            accessor: "show.status"
+            accessor: "crop.subplots"
           },
           {
-            Header: "Type",
-            accessor: "show.status"
+            Header: "Area",
+            accessor: "crop.area"
           },
           {
-            Header: "Details",
-            accessor: "show.status"
+            Header: "Weight",
+            accessor: "crop.weight"
+          },
+          {
+            Header: "Package Quantity",
+            accessor: "crop.packageQuantity"
+          },
+          {
+            Header: "Package Type",
+            accessor: "crop.packageType"
           },
           {
             Header: "Notes",
-            accessor: "show.status"
+            accessor: "crop.notes"
           },
           {
             Header: "Updated At",
-            accessor: "show.status"
+            accessor: "crop.updatedAt"
           },
           {
             Header: "Updated By",
-            accessor: "show.status"
+            accessor: "crop.updatedBy"
           }
         ]
       }
@@ -623,24 +635,24 @@ function App() {
 
   return (
     <>
-    <Header batch={"12345"}/>
+    <Header batch={"Carvalhal"}/>
     <div className="App">
       <div>Link to blockchain transaction: 0xabc</div>
-      <br></br>
+      <br></br><br></br><br></br>
       {/* <Table columns={columns} data={data} />
       <br></br> */}
       <ObsTable columns={obsColumns} data={obsData} />
-      <br></br>
+      <br></br><br></br><br></br>
       <OpsCultTable columns={opsCultColumns} data={opsCultData} />
-      <br></br>
+      <br></br><br></br><br></br>
       <RegaTable columns={regaColumns} data={regaData} />
-      <br></br>
+      <br></br><br></br><br></br>
       <FertTable columns={fertColumns} data={fertData} />
-      <br></br>
+      <br></br><br></br><br></br>
       <BioControlTable columns={bioControlColumns} data={bioControlData} />
-      <br></br>
+      <br></br><br></br><br></br>
       <PulvTable columns={pulvColumns} data={pulvData} />
-      <br></br>
+      <br></br><br></br><br></br>
       <CropTable columns={cropColumns} data={cropData} />
     </div>
     <Footer/>

@@ -22,7 +22,7 @@ export default function Table({ columns, data }) {
 
   const handleFilterChange = e => {
     const value = e.target.value || undefined;
-    setFilter("initDate.initDate", value);
+    setFilter("spray.initDate", value);
     setFilterInput(value);
   };
 
@@ -32,7 +32,7 @@ export default function Table({ columns, data }) {
       <input
         value={filterInput}
         onChange={handleFilterChange}
-        placeholder={"Search by Init Date"}
+        placeholder={"Search Pulverization by Init Date"}
       />
       <div className="table-container">
       <table {...getTableProps()}>

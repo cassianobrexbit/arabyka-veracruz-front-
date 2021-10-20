@@ -32,7 +32,7 @@ export default function Table({ columns, data }) {
       <input
         value={filterInput}
         onChange={handleFilterChange}
-        placeholder={"Search by Start Date"}
+        placeholder={"Search Biological Control by Start Date"}
       />
       <div className="table-container">
       <table {...getTableProps()}>

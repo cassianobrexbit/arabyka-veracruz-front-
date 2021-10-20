@@ -1,26 +1,5 @@
 [
-	{
-		"spray":
-		{
-			"id": "329460",
-			"exportable": "Sim",
-			"recommendation": "Sim",
-			"initDate": "2021-07-13 06:00",
-			"endDate": "2021-07-16 14:00",
-			"subplots": "Armazém",
-			"area": "0",
-			"volume": "",
-			"product": "",
-			"quantity": "",
-			"dosage": "",
-			"concentration": "",
-			"ground": "",
-			"activeSubs": "",
-			"notes":"",
-			"updatedAt": "2021-07-15 16:18",
-			"updatedBy": "Pedro Lourenço"
-		}
-	},
+
 	{
 		"spray":
 		{
@@ -84,6 +63,72 @@
 			"activeSubs": "",
 			"notes":"",
 			"updatedAt": "2021-07-15 16:18",
+			"updatedBy": "Pedro Lourenço"
+		}
+	},
+	{
+		"spray":
+		{
+			"id": "411472",
+			"exportable": "Sim",
+			"recommendation": "Sim",
+			"initDate": "2021-10-18 08:00",
+			"endDate": "2021-10-18 17:00",
+			"subplots": "Setor 01; Setor 02; Setor 03; Setor 04; Setor 05; Setor 06; Setor 07; Setor 08; Setor 09; Setor 10; Setor 11; Setor 12; Setor 13; Setor 14; Setor 15; Setor 16; Setor 23; Setor 24; Setor 25; Setor 26; Setor 27; Setor 28; Setor 29; Setor 30; Setor 31; Setor 32; Setor 33; Setor 34; Setor 35; Setor 36; Setor 37; Setor 38; Setor 39; Setor 40; Setor 41; Setor 42; Setor 43; Setor 44; Setor 45; Setor 46; Setor 47; Setor 48; Setor 49; Setor 50; Setor 51",
+			"area": "218.274",
+			"volume": "200",
+			"product": "Kyleo, SILWET L-77",
+			"quantity": "436.548 L, 21.8274 L",
+			"dosage": "2.0 L/ha, 1.0 L/ha",
+			"concentration": "1.0 L/100L, 0.05 L/100L",
+			"ground": "",
+			"activeSubs": "glifosato (sal de isopropilamónio), metoxi-poli-propil-heptametiltrisiloxano",
+			"notes":"Ver setor do Zé Luis",
+			"updatedAt": "2021-10-18 11:49",
+			"updatedBy": "Pedro Lourenço"
+		}
+	},
+	{
+		"spray":
+		{
+			"id": "411470",
+			"exportable": "Sim",
+			"recommendation": "Sim",
+			"initDate": "2021-10-18 08:00",
+			"endDate": "2021-10-18 17:00",
+			"subplots": "Setor 05",
+			"area": "5.1385",
+			"volume": "200",
+			"product": "Kyleo, SILWET L-77",
+			"quantity": "436.548 L, 21.8274 L",
+			"dosage": "2.0 L/ha, 1.0 L/ha",
+			"concentration": "1.0 L/100L, 0.05 L/100L",
+			"ground": "",
+			"activeSubs": "glifosato (sal de isopropilamónio), metoxi-poli-propil-heptametiltrisiloxano",
+			"notes":"",
+			"updatedAt": "2021-10-18 11:48",
+			"updatedBy": "Pedro Lourenço"
+		}
+	},
+	{
+		"spray":
+		{
+			"id": "411472",
+			"exportable": "Sim",
+			"recommendation": "Sim",
+			"initDate": "2021-10-18 08:00",
+			"endDate": "2021-10-18 17:00",
+			"subplots": "Setor 45",
+			"area": "5.45",
+			"volume": "200",
+			"product": "Kyleo, SILWET L-77",
+			"quantity": "436.548 L, 21.8274 L",
+			"dosage": "2.0 L/ha, 1.0 L/ha",
+			"concentration": "1.0 L/100L, 0.05 L/100L",
+			"ground": "",
+			"activeSubs": "glifosato (sal de isopropilamónio), metoxi-poli-propil-heptametiltrisiloxano",
+			"notes":"Ver setor do Zé Luis",
+			"updatedAt": "2021-10-18 11:47",
 			"updatedBy": "Pedro Lourenço"
 		}
 	}
