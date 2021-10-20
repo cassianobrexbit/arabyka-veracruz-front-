@@ -637,7 +637,7 @@ function App() {
     <>
     <Header batch={"Carvalhal"}/>
     <div className="App">
-      <div>Link to blockchain transaction: FC83DDFC226689068B831E564B46E55359EF83EFF8E658E3912A38C91A964C06</div>
+      <div>Link to blockchain transaction: FC83DDDC226689068B831E564B46E55359EF83EFF8E658E3912A38C91A964C06</div>
       <br></br><br></br>
       {/* <Table columns={columns} data={data} />
       <br></br> */}
